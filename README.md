@@ -39,8 +39,8 @@ Open http://localhost:3000 and switch languages from the UI.
 
 ## Live demos
 
-- **With locale-based routing** → [link once deployed]
-- **Without locale-based routing** → [link once deployed]
+- **With locale-based routing** → [Live demo](https://nextjs-localization-with-routing.vercel.app/)
+- **Without locale-based routing** → [Live demo](https://nextjs-localization-no-routing.vercel.app/)
 
 ## Why this exists
 
